@@ -39,7 +39,7 @@ Marine heatwaves can have ecological impacts, ranging from coral bleaching, lago
 Daily SST data from satellite and in situ observations are available from 1st September 1981, providing the opportunity to assess the history of marine heatwaves in the Pacific over almost 40 years. Marine heatwave summaries showing frequency of events, maximum severity, and average duration in each decade since 1981 are shown in Figure 21.
 
 <p align="center">
-  <img width="444" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/87ae197e-46c9-449e-97d2-160408227157">
+  <img height="600" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/87ae197e-46c9-449e-97d2-160408227157">
 
   __Figure 21__. Marine Heat Wave Summaries.  Daily NOAA OISSTv2.1 SST data (Huang et al. 2021) for 1981-2020 were ingested into  a marine heatwave algorithm to calculate number of marine heatwave (MH) events (top row), maximum severity9 (middle row) and median duration (bottom row) . The climatology period was set from 1981 to 2010 for calculation of the 90th percentile threshold. Summaries are split into decadal periods.
 </p>
@@ -55,7 +55,7 @@ Ocean temperature integrated over a given depth range provide estimates of ocean
 Trends in heat content over the 38-year period are largely positive in the Western Warm Pool region and in the northern and southern sub-tropics, indicating the ocean is absorbing and retaining more heat in these regions. Highest trends are found in western PNG, Solomon Islands, Nauru, and Tokelau. Slightly negative trends are found in the eastern Pacific just north and south of the equator.
 
 <p align="center">
-  <img width="464" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/c1962a6d-a1a0-41b2-90b1-5a30f5a4b55a">
+  <img height="600" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/c1962a6d-a1a0-41b2-90b1-5a30f5a4b55a">
 
   __Figure 22__. Heat content trends over the Pacific from January 1981 to December 2018 using monthly HC300 data from the ACCESS-S2 ocean reanalysis (Wedd et al. in prep.).
 </p>
