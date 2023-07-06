@@ -25,8 +25,11 @@ The trends throughout the observation period vary from decade to decade, primari
 
 This is reflected in the average SST anomalies (departures from the 1981 to 2020 seasonal means) computed over the boreal winter months (December, January, February; DJF) for each decade.  Figure 20 shows the mean DJF SST anomalies for each decade, with the 1990’s being mostly neutral (balance of warm and cold events during the decade), and the 2010’s showing more like La Niña conditions.
 
-<img width="464" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/42e82610-c089-4f60-8232-8b4dceb7d187">
-Figure 20. Seasonal Sea Surface Temperature Anomalies. The maps show mean boreal winter (December, January February) SST anomalies for four different decades (1980’s upper left, 1990’s upper right, 2000’s lower left and 2010’s lower right). Data are NOAA OISSTv2 satellite and in situ analysis.
+<p align="center">
+  <img width="464" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/42e82610-c089-4f60-8232-8b4dceb7d187">
+
+  __Figure 20__. Seasonal Sea Surface Temperature Anomalies. The maps show mean boreal winter (December, January February) SST anomalies for four different decades (1980’s upper left, 1990’s upper right, 2000’s lower left and 2010’s lower right). Data are NOAA OISSTv2 satellite and in situ analysis.
+</p>
 
 ## Indicator: Marine Heat Waves
 Marine heatwaves are episodes of much higher than normal ocean temperatures that persist from between 5 days to many months. The sea surface temperature threshold that signifies a marine heatwave is the 90th percentile, which is the highest 10% of sea surface temperatures experienced on a given day that is determined by looking at many years of data8.  When the 90th percentile temperature is exceeded for five or more consecutive days, the event is referred to as a marine heatwave.  Marine heatwave intensity is characterized by four categories (Moderate; Strong; Severe; Extreme)9.  Marine heatwaves can occur year-round.  The western tropical Pacific is a global hotspot for increase in marine heatwaves.
@@ -35,8 +38,11 @@ Marine heatwaves can have ecological impacts, ranging from coral bleaching, lago
 
 Daily SST data from satellite and in situ observations are available from 1st September 1981, providing the opportunity to assess the history of marine heatwaves in the Pacific over almost 40 years. Marine heatwave summaries showing frequency of events, maximum severity, and average duration in each decade since 1981 are shown in Figure 21.
 
-<img width="444" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/87ae197e-46c9-449e-97d2-160408227157">
-Figure 21. Marine Heat Wave Summaries.  Daily NOAA OISSTv2.1 SST data (Huang et al. 2021) for 1981-2020 were ingested into  a marine heatwave algorithm to calculate number of marine heatwave (MH) events (top row), maximum severity9 (middle row) and median duration (bottom row) . The climatology period was set from 1981 to 2010 for calculation of the 90th percentile threshold. Summaries are split into decadal periods.
+<p align="center">
+  <img width="444" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/87ae197e-46c9-449e-97d2-160408227157">
+
+  __Figure 21__. Marine Heat Wave Summaries.  Daily NOAA OISSTv2.1 SST data (Huang et al. 2021) for 1981-2020 were ingested into  a marine heatwave algorithm to calculate number of marine heatwave (MH) events (top row), maximum severity9 (middle row) and median duration (bottom row) . The climatology period was set from 1981 to 2010 for calculation of the 90th percentile threshold. Summaries are split into decadal periods.
+</p>
 
 The number of marine heatwaves remained fairly constant in the tropical regions in the 1980s and 1990s, with around 10 to 15 events per decade in the western Pacific and up to 30 events per decade in the east. Compared to the 1980s, the northwest Pacific had an increase in the frequency of events in the 1990s to about 30. In the 2000s, numbers decreased within the central and eastern tropical Pacific, and increased in the eastern Pacific and subtropics to approximately 40 events. The 2010s had the highest number of events, reaching above 50 in the Western Warm Pool, a band spanning from PNG to the central Pacific, and off the coast of Mexico.
 
@@ -48,6 +54,8 @@ The average duration of marine heatwaves is consistent for the three decades fro
 Ocean temperature integrated over a given depth range provide estimates of oceanic heat content.  This is an important parameter as the ocean sequesters much of the increased atmospheric heat from anthropogenic processes. Ocean temperature is integrated over the upper 300 meters of the ocean and then a linear fit is applied to the result from 1981 to 2018. The result (Figure 22) gives an indication of the trends in oceanic heat content (H300) during this period. Trends over this period are expected to be affected by both human-forced global warming and natural climate variability.
 Trends in heat content over the 38-year period are largely positive in the Western Warm Pool region and in the northern and southern sub-tropics, indicating the ocean is absorbing and retaining more heat in these regions. Highest trends are found in western PNG, Solomon Islands, Nauru, and Tokelau. Slightly negative trends are found in the eastern Pacific just north and south of the equator.
 
-<img width="464" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/c1962a6d-a1a0-41b2-90b1-5a30f5a4b55a">
-Figure 22. Heat content trends over the Pacific from January 1981 to December 2018 using monthly HC300 data from the ACCESS-S2 ocean reanalysis (Wedd et al. in prep.).
+<p align="center">
+  <img width="464" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/c1962a6d-a1a0-41b2-90b1-5a30f5a4b55a">
 
+  __Figure 22__. Heat content trends over the Pacific from January 1981 to December 2018 using monthly HC300 data from the ACCESS-S2 ocean reanalysis (Wedd et al. in prep.).
+</p>
