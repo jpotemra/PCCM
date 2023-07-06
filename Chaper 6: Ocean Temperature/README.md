@@ -16,7 +16,7 @@ SST is probably one of the most well-known and widely observed climate indicator
 The observed trend at each 1-degree grid point, in oC per decade, is shown in Figure 19.  Almost all Pacific Island countries have experienced warming during this period.  Hawaii, Niue and Tonga have all experienced at least 0.2 oC (0.4°F) per decade warming, while most other countries have experience warming between 0.1 and 0.2 oC (0.2 to0.4°F) per decade.  The southeastern part, around the Marquesas  is a notable exception.  Here, temperatures show cooling trends over the period 1982-2021
 
 <p align="center">
-  <img width="461" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/e47f60f1-17f2-4e8b-b598-0a3c6eb01524">
+  <img height="600" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/e47f60f1-17f2-4e8b-b598-0a3c6eb01524">
 
   __Figure 19__. Sea Surface Temperature Trends. The map shows SST trends (oC per decade) over the period 1982-2020 from the NOAA OISSTv2 satellite and in situ analysis.</font>
 </p>
@@ -26,7 +26,7 @@ The trends throughout the observation period vary from decade to decade, primari
 This is reflected in the average SST anomalies (departures from the 1981 to 2020 seasonal means) computed over the boreal winter months (December, January, February; DJF) for each decade.  Figure 20 shows the mean DJF SST anomalies for each decade, with the 1990’s being mostly neutral (balance of warm and cold events during the decade), and the 2010’s showing more like La Niña conditions.
 
 <p align="center">
-  <img width="464" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/42e82610-c089-4f60-8232-8b4dceb7d187">
+  <img height="600" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/42e82610-c089-4f60-8232-8b4dceb7d187">
 
   __Figure 20__. Seasonal Sea Surface Temperature Anomalies. The maps show mean boreal winter (December, January February) SST anomalies for four different decades (1980’s upper left, 1990’s upper right, 2000’s lower left and 2010’s lower right). Data are NOAA OISSTv2 satellite and in situ analysis.
 </p>
