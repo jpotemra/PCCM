@@ -17,9 +17,9 @@ The observed trend at each 1-degree grid point, in oC per decade, is shown in Fi
 
 <p align="center">
   <img width="461" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/e47f60f1-17f2-4e8b-b598-0a3c6eb01524">
-</p>
 
-<font size="small">Figure 19. Sea Surface Temperature Trends. The map shows SST trends (oC per decade) over the period 1982-2020 from the NOAA OISSTv2 satellite and in situ analysis.</font>
+  __Figure 19__. Sea Surface Temperature Trends. The map shows SST trends (oC per decade) over the period 1982-2020 from the NOAA OISSTv2 satellite and in situ analysis.</font>
+</p>
 
 The trends throughout the observation period vary from decade to decade, primarily due to increased ENSO activity during some decades compared to others.  For example, the 1990’s saw 4 El Niño events with two very strong ones (1991/92 and 1997/98).  The decade ended with a big La Niña event.  SST trends in this decade would likely show cooling due to this shift from warm to cold (see Figure 20).
 
