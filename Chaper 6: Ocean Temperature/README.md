@@ -2,18 +2,18 @@
 
 ## Highlights
 <ul>
-  <li>For the most part, mean sea surface temperature in the Pacific has warmed over the past few decades by a few tenths of a degree per decade, with an overall warming of approximately 0.90C (1.6°F) since 1982.</li>
+  <li>For the most part, mean sea surface temperature in the Pacific has warmed over the past few decades by a few tenths of a degree per decade, with an overall warming of approximately 0.90°C (1.6°F) since 1982.</li>
   <li>From the 1980s to 2000s the average duration of marine heatwaves is consistent, with much of the Pacific region within the 5- to 16-day range. However, there is a significant increase in event duration in the 2010s, with most of the Pacific in the 8 to 20+ day range.</li>
   <li>Trends in subsurface heat content over period 1981 to 2018  are largely positive in the Western Warm Pool region and in the northern and southern sub-tropics.</li>
   <li>Highest positive trends in subsurface heat content were found in western PNG, Solomon Islands, Nauru, and Tokelau. Slightly negative trends were found in the eastern Pacific just north and south of the equator.</li>
 </ul>
 
 ## Background
-Changes in ocean temperature are one of the most important measures of long-term global climate change.  Ocean temperature is an indicator of the state of marine ecosystems, as surface and subsurface variations surface can influence species distribution, growth, and life span, alter their migration and breeding patterns, and threaten sensitive ecosystems such as coral reefs1.
+Changes in ocean temperature are one of the most important measures of long-term global climate change.  Ocean temperature is an indicator of the state of marine ecosystems, as surface and subsurface variations surface can influence species distribution, growth, and life span, alter their migration and breeding patterns, and threaten sensitive ecosystems such as coral reefs.
 
 ## Indicator: Mean Sea Surface Temperature
 SST is probably one of the most well-known and widely observed climate indicators2.  SST is used to monitor human-forced climate change and modes of  natural climate variability that affect patterns of wind and rain as well as ocean circulation, such as the El Niño–Southern Oscillation (ENSO) and the Interdecadal Pacific Oscillation (IPO)/Pacific Decadal Oscillation (PDO)3,4.  The Physical Sciences Division at NOAA produces an SST product based on optimum interpolation (OI) analysis.  The product, NOAA OISSTv25,6,7  is produced weekly on a one-degree grid. Monthly averages are used here.  The temporal coverage of the monthly data used is from January 1982 through December 2021.    
-The observed trend at each 1-degree grid point, in oC per decade, is shown in Figure 19.  Almost all Pacific Island countries have experienced warming during this period.  Hawaii, Niue and Tonga have all experienced at least 0.2 oC (0.4°F) per decade warming, while most other countries have experience warming between 0.1 and 0.2 oC (0.2 to0.4°F) per decade.  The southeastern part, around the Marquesas  is a notable exception.  Here, temperatures show cooling trends over the period 1982-2021
+The observed trend at each 1-degree grid point, in oC per decade, is shown in Figure 19.  Almost all Pacific Island countries have experienced warming during this period.  Hawaii, Niue and Tonga have all experienced at least 0.2 oC (0.4°F) per decade warming, while most other countries have experience warming between 0.1 and 0.2 °C (0.2 to 0.4°F) per decade.  The southeastern part, around the Marquesas is a notable exception.  Here, temperatures show cooling trends over the period 1982-2021.
 
 <p align="center">
   <img height="600" alt="image" src="https://github.com/jpotemra/PCCM/assets/4795284/e47f60f1-17f2-4e8b-b598-0a3c6eb01524">
